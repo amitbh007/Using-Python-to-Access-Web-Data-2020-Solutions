@@ -11,3 +11,5 @@ if __name__ == '__main__':
                 sum += int(w)
 
     print('The sum for the sample text above is %d\n' % sum)
+
+#The sum for the sample text above is 372643
