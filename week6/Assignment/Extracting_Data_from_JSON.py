@@ -20,6 +20,7 @@ for item in js['comments']:
 print('Count:', count)
 print('Sum:', sum)
 
+#Ans
 #Retrieved 2725 characters
 #Count: 50
 #Sum: 2530

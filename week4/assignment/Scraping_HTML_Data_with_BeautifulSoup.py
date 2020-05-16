@@ -23,5 +23,6 @@ for tag in tags:
 print('Count %d' % count)
 print('Sum %d' % sum)
 
+#Ans
 #Count 50
 #Sum 2833
