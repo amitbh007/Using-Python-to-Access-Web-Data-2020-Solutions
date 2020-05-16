@@ -24,9 +24,9 @@ Ans : One or more digits
 
 Q-8 What does the following Python sequence print out?
 
-> x = 'From: Using the : character'
-> y = re.findall('^F.+:', x)
-> print(y)
+     x = 'From: Using the : character'
+     y = re.findall('^F.+:', x)
+     print(y)
 
 Ans : ['From: Using the :']
 
