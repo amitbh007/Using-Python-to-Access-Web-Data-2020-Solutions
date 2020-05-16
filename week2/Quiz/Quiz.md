@@ -23,9 +23,11 @@ Q-7 What does the "[0-9]+" match in a regular expression?
 Ans : One or more digits
 
 Q-8 What does the following Python sequence print out?
+
     > x = 'From: Using the : character'
     > y = re.findall('^F.+:', x)
     > print(y)
+    
 Ans : ['From: Using the :']
 
 Q-9 What character do you add to the "+" or "*" to indicate that the match is to be done in a non-greedy manner?
